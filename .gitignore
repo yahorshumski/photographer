@@ -1,0 +1,5 @@
+*.pyc
+reports/
+htmlcov/
+.coverage
+blogengine/migrations
