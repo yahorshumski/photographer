@@ -1,0 +1,1526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"static"
+			],
+			[
+				"por",
+				"portfolio	portofolio-item"
+			],
+			[
+				"all",
+				"all_posts"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"shop",
+				"shopPrices"
+			],
+			[
+				"best",
+				"bestShop"
+			],
+			[
+				"oder",
+				"orderList"
+			],
+			[
+				"order",
+				"orderPrice"
+			],
+			[
+				"frui",
+				"fruitShops"
+			],
+			[
+				"fru",
+				"fruitShops"
+			],
+			[
+				"fuit",
+				"fruitPrices"
+			],
+			[
+				"to",
+				"totalCost"
+			],
+			[
+				"oe",
+				"orderList"
+			],
+			[
+				"L",
+				"LowerCaseList"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"wod",
+				"wordList"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"s",
+				"sans-serif  (value)"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"alr",
+				"alt=  (attribute)"
+			],
+			[
+				"b",
+				"border=  (attribute)"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"float",
+				"float:   (property)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"paddin",
+				"padding-right	zen:css_properties"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text",
+				"text-indent	zen:css_properties"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fonr",
+				"font-weight:   (property)"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"mail",
+				"mail_body"
+			],
+			[
+				"al",
+				"align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "portfolio/models.py",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photographer/settings.py",
+			"settings":
+			{
+				"buffer_size": 3567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photographer/urls.py",
+			"settings":
+			{
+				"buffer_size": 918,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "portfolio/urls.py",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "portfolio/admin.py",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-portfolio2/urls.py",
+			"settings":
+			{
+				"buffer_size": 1088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-portfolio2/admin.py",
+			"settings":
+			{
+				"buffer_size": 1979,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"githu",
+				"Github: Issues"
+			],
+			[
+				"gith",
+				"Github: Repository"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"github:",
+				"Github: Issues"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"g",
+				"Github: Plugin Settings"
+			],
+			[
+				"snip",
+				"Snippet: portofolio"
+			],
+			[
+				"sni",
+				"Snippet: portofolio"
+			],
+			[
+				"snipp",
+				"Snippet: portofolio"
+			],
+			[
+				"sn",
+				"Snippet: portofolio-item"
+			],
+			[
+				"sno",
+				"Set Syntax: OCamllex"
+			],
+			[
+				"sp",
+				"Snippet: portofolio-item"
+			],
+			[
+				"Snippet: ",
+				"Snippet: portofolio-item"
+			],
+			[
+				"Snippet: por",
+				"Snippet: portofolio-item"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"ab",
+				"About"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 769.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Ubuntu/user/projects/blog/templates/blogengine/post_detail.html",
+		"/E/Ubuntu/user/projects/blog/blogengine/urls.py",
+		"/E/Ubuntu/user/projects/blog/templates/blogengine/post_list.html",
+		"/E/Ubuntu/user/projects/blog/blog/urls.py",
+		"/E/Ubuntu/user/projects/blog/blogengine/tests.py",
+		"/E/Ubuntu/user/projects/blog/blog/settings.py",
+		"/E/Ubuntu/user/projects/blog/blogengine/models.py",
+		"/E/Ubuntu/user/projects/blog/.gitignore",
+		"/E/Ubuntu/user/projects/blog/templates/flatpages/default.html",
+		"/E/Ubuntu/user/projects/blog/blogengine/admin.py",
+		"/E/Ubuntu/user/projects/blog/blogengine/static/.bowerrc",
+		"/E/Ubuntu/user/projects/blog/templates/blogengine/includes/base.html",
+		"/E/Ubuntu/user/projects/blog/blogengine/templatetags/custom_markdown.py",
+		"/E/Ubuntu/user/projects/blog/bower.json",
+		"/E/Ubuntu/user/projects/blog/blogengine/templatetags/__init__.py",
+		"/E/Ubuntu/user/.bashrc",
+		"/E/Ubuntu/user/projects/mysite/polls/tests.py",
+		"/E/Ubuntu/user/projects/mysite/polls/urls.py",
+		"/E/Ubuntu/user/projects/mysite/mysite/settings.py",
+		"/E/Ubuntu/user/projects/mysite/mysite/wsgi.py",
+		"/E/Ubuntu/user/projects/mysite/polls/templates/polls/index.html",
+		"/E/Ubuntu/user/projects/mysite/polls/templates/polls/detail.html",
+		"/E/Ubuntu/user/projects/mysite/polls/templates/polls/results.html",
+		"/E/Ubuntu/user/projects/mysite/polls/static/polls/style.css",
+		"/E/Ubuntu/user/projects/mysite/requirements.txt",
+		"/E/Ubuntu/user/projects/git/work/hello/REAMDE",
+		"/E/Ubuntu/user/projects/git/work/hello/readme",
+		"/E/Ubuntu/user/projects/git/work/hello/hello.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/shop.py",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/shopSmart.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/autograder.py",
+		"/E/Ubuntu/user/.profile",
+		"/E/Ubuntu/user/.gitconfig",
+		"/E/Ubuntu/user/projects/git/work/hello/.gitconfig",
+		"/E/Ubuntu/user/projects/mysite/polls/models.py",
+		"/E/Ubuntu/user/projects/mysite/polls/views.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/foreach.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/listcomp.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/shop.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/person_class.py",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/addition.py",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/buyLotsOfFruit.py",
+		"/E/Ubuntu/user/projects/mysite/Procfile",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/listcomp2.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/listCompMine.py",
+		"/E/Ubuntu/user/projects/mysite/mysite/.gitignore",
+		"/E/Ubuntu/user/projects/mysite/mysite/urls.py",
+		"/E/Ubuntu/user/projects/mysite/.git/config",
+		"/E/Ubuntu/Vagrantfile",
+		"/C/Users/User/Documents/work/site/index.html",
+		"/E/Work/Ramirez/RAWprocessed/PSD/TIFF/JPEG/5H6A6146.jpg",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/C/Users/User/Documents/work/site/style.css",
+		"/C/Users/User/Documents/work/site/contact.html",
+		"/C/Users/User/Documents/stydy/companysimulation.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Github Tools.sublime-settings",
+		"/C/Users/User/Documents/work/site/.htaccess",
+		"/C/Users/User/Documents/work/site/retouching-clients.html",
+		"/C/Users/User/Documents/work/site/thanks.html",
+		"/C/Users/User/Documents/work/site/retouching-faq.html",
+		"/C/Users/User/Documents/work/site/price.html",
+		"/C/Users/User/Documents/work/site/contactOld.html",
+		"/C/Users/User/Documents/work/site/portfolio/skytree.html",
+		"/C/Users/User/Documents/work/site/portfolio/sticco.html",
+		"/C/Users/User/Documents/work/site/portfolio/template2.html",
+		"/C/Users/User/Documents/work/site/portfolio/torso.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation1.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation2.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation3.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation4.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation5.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation6.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation7.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation8.html",
+		"/C/Users/User/Documents/work/site/portfolio/visualisation9.html",
+		"/C/Users/User/Documents/work/site/price-v2.html",
+		"/C/Users/User/Documents/work/site/rendering-service.html",
+		"/C/Users/User/Documents/work/site/retouching-testimonials.html",
+		"/C/Users/User/Documents/work/site/sendeng.php",
+		"/C/Users/User/Documents/work/site/portfolio/reed12.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed13.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed2.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed3.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed4.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed5.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed6.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed7.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed8.html",
+		"/C/Users/User/Documents/work/site/portfolio/reed9.html",
+		"/C/Users/User/Documents/work/site/visualisation.html",
+		"/C/Users/User/Documents/work/site/jewel3.html",
+		"/C/Users/User/Documents/work/site/Johansson1.html",
+		"/C/Users/User/Documents/work/site/photo-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio-restoration.html",
+		"/C/Users/User/Documents/work/site/portfolio-v2.html",
+		"/C/Users/User/Documents/work/site/portfolio.html",
+		"/C/Users/User/Documents/work/site/portfolio/advertising-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/architecture.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/advertising-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/architecture.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/bratsburg.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/cleary.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/cleary2.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-1.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-2.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/commercial-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/door.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/editorial-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/eriksen.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/fashion-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/fashion.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/food.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/garcia.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/garcia2.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/garcia3.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/garsia3.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/hair-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/interior-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/interior1.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/interior2.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/jewel.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/jewel1.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/jewel2.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/jewel3.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/johansson3.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\Ubuntu\\user\\projects\\mysite",
+			"C:\\Users\\User\\Documents\\work\\site",
+			"C:\\Users\\User\\Documents\\work\\site\\portfolio",
+			"C:\\Users\\User\\Documents\\work\\site"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"client.get('/admin/')",
+			"client.get",
+			"code, 200",
+			"boilerplate/src",
+			"boilerplate/",
+			"'/admin/'",
+			"7eca2dfcf1ab48df42a409de3e12ec7cf8e01141",
+			"HEAD",
+			"7eca2dfcf1ab48df42a409de3e12ec7cf8e01141",
+			".",
+			"prod",
+			"\"></",
+			"synced_folder",
+			"contac",
+			"\n",
+			"<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-136126-1', 'auto');  // Replace with your property ID.\nga('send', 'pageview');\n\n</script>\n",
+			"<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-136126-1', 'auto');  // Replace with your property ID.\nga('send', 'pageview');\n\n</script>",
+			"<script type=\"text/javascript\">\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-136126-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n</script>",
+			"		<script type=\"text/javascript\">\n\n		  var _gaq = _gaq || [];\n		  var pluginUrl = 'http://www.google-analytics.com/plugins/ga/inpage_linkid.js';\n		  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);\n		  _gaq.push(['_setAccount', 'UA-136126-1']);\n		  _gaq.push(['_trackPageview']);\n\n		  (function() {\n		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n		  })();\n\n		</script>",
+			"//www.google-analytics.com/plugins/ga/inpage_linkid.js",
+			"<!-- Google Code for Remarketing Tag -->\n\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\">\n</div>\n</noscript>\n",
+			">about</a>",
+			"eu",
+			"29",
+			"<li><a href=\"retouching-faq.html\">FAQ</a></li>",
+			"get",
+			"<p><strong><font color=\"#FFFFFF\">mouse over image to see original</font></strong><br><br>",
+			"<p>photographer:",
+			"<p>retoucher:",
+			"<div class=\"description\"><p>",
+			"<!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->",
+			"<!--<li><a href=\"retouching-faq.html\">faq</a></li>-->",
+			"ultr",
+			"jus",
+			"<!-- Google Code for Remarketing Tag -->\n\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\"/>\n</div>\n</noscript>\n",
+			"<!-- Google Code for Remarketing Tag -->\n\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\"/>\n</div>\n</noscript>",
+			"<!-- Google Code for Remarketing Tag -->\n<!--------------------------------------------------\nRemarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup\n--------------------------------------------------->\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\"/>\n</div>\n</noscript>\n",
+			"</body>",
+			"Photo Retoucher Portfolio. Euphoria - Yahor Shumski digital image & photo retouching studio",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" media=\"screen\" />\n",
+			"    <style type=\"text/css\" media=\"screen\">\n    <!--\n    @import url(\"style.css\");\n    -->\n    </style>",
+			"rgb",
+			"252",
+			"down",
+			"Professional photo retouching services",
+			"photo retouching & 3D visualization",
+			"<li><a href=\"../visualisation.html\">3D visualization</a></li>",
+			"<li><a href=\"visualisation.html\">3D visualization</a></li>",
+			"BCC",
+			"//$",
+			"  <!-- facebook code -->\n  <div id=\"fb-root\"></div>\n<script type=\"text/javascript\">(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = \"//connect.facebook.net/en_GB/all.js#xfbml=1&appId=263983510898\";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n  <!-- facebook code -->",
+			"hotel",
+			"portait",
+			"    <!-- Analytics -->\n    <script type=\"text/javascript\">\n\n      var _gaq = _gaq || [];\n      _gaq.push(['_setAccount', 'UA-136126-1']);\n      _gaq.push(['_trackPageview']);\n\n      (function() {\n        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n      })();\n\n    </script>\n    <!-- Analytics -->",
+			"<!-- Analytics -->\n<script type=\"text/javascript\">\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-136126-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n</script>\n<!-- Analytics -->",
+			"  <!-- Analytics -->\n  <script type=\"text/javascript\">\n\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-136126-1']);\n    _gaq.push(['_trackPageview']);\n\n    (function() {\n      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n    })();\n\n  </script>\n  <!-- Analytics -->",
+			"900px",
+			"retouching",
+			"$",
+			"  <div align=\"center\">\n      <a href=\"../index.html\"><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n  <h1>photo retouching & 3D visualization</h1><br>\n  </div>",
+			"  <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n    <div class=\"menu\" align=\"center\">\n      <ul>\n        <li><a href=\"../index.html\">about</a></li>\n        <li><a href=\"../portfolio.html\">portfolio</a></li>\n        <li><a href=\"../visualization.html\">3D visualization</a></li>\n        <li><a href=\"../retouching-clients.html\">clients</a></li> \n        <!--<li><a href=\"../price.html\">price</a></li>-->\n        <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n        <li><a href=\"../contact.html\">contact</a></li>\n    </ul>\n    </div>\n  </td></tr>\n  </table>",
+			"  <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n    <div class=\"menu\" align=\"center\">\n      <ul>\n        <li><a href=\"../index.html\">about</a></li>\n        <li><a href=\"../portfolio.html\">portfolio</a></li>\n        <li><a href=\"../visualisation.html\">3D visualization</a></li>\n        <li><a href=\"../retouching-clients.html\">clients</a></li> \n        <!--<li><a href=\"../price.html\">price</a></li>-->\n        <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n        <li><a href=\"../contact.html\">contact</a></li>\n    </ul>\n    </div>\n  </td></tr>\n  </table>",
+			"  <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  	<div class=\"menu\" align=\"center\">\n      <ul>\n        <li><a href=\"../index.html\">about</a></li>\n        <li><a href=\"../portfolio.html\">portfolio</a></li>\n        <li><a href=\"../visualization.html\">3D visualization</a></li>\n        <li><a href=\"../retouching-clients.html\">clients</a></li>	\n        <!--<li><a href=\"../price.html\">price</a></li>-->\n        <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n        <li><a href=\"../contact.html\">contact</a></li>\n  	</ul>\n    </div>\n  </td></tr>\n  </table>",
+			"vis",
+			"3D visualisation",
+			"visu",
+			"  <div align=\"center\">\n      <a href=\"../index.html\"><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n  <h1>photo retouching & 3D visualization</h1><br>\n  </div>",
+			"<div align=\"center\">\n	<a href=\"index.html\"><img src=\"image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n	<h1>photo retouching & 3D visualization</h1><br>\n</div>",
+			"photo retouching & 3D visualisation",
+			"visualisation",
+			"3D visualisation",
+			"visualisation",
+			"<div align=\"center\">\n	<a href=\"index.html\"><img src=\"image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n	<h1>photo retouching & 3D visualisation</h1><br>\n</div>",
+			"h2",
+			"<object classclass",
+			"sn",
+			":\n",
+			"social",
+			"socialbutts",
+			"social",
+			"heigh",
+			"id=\"",
+			"id=\"menu\"",
+			"<li><a href=\"price.html\">price</a></li>",
+			"<li><a href=\"../price.html\">price</a></li>",
+			"<!--<li><a href=\"../price.html\">price</a></li>-->",
+			"<!--<li><a href=\"price.html\">price</a></li>-->",
+			"tab",
+			"bac",
+			"<!--	  <li><a href=\"retouching-faq.html\">faq</a></li>-->",
+			"<li><a href=\"../price.html\">price</a></li>",
+			"<li><a href=\"price.html\">price</a></li>",
+			"B",
+			"\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n\n<html>\n<head>\n	<title>EUPHORIA - Photo Retoucher Portfolio | Advertising Photo Retouching</title>\n	<meta name=\"Description\" content=\"Photo Retoucher Portfolio. Euphoria - Yahor Shumski digital image & photo retouching studio\">\n	<meta name=\"Keywords\" content=\"advertising, portfolio, retouching, photo retouching, digital retouching, image retouching, retoucher, photo retoucher, fashion retouching\">\n\n\n\n  <style type=\"text/css\" media=\"screen\">\n  <!--\n  @import url(\"../style.css\");\n  -->\n\n  @import url(\"reset.css\");\n\n  .photos{\n    background: url(\"advertising-retouching.jpg\") no-repeat;\n    width: 600px;\n    height: 776px;\n    cursor: pointer;\n  }\n\n\n  </style>\n\n\n\n    <link rel=\"shortcut icon\" href=\"../favicon.ico\" type=\"image/x-icon\">\n    <link rel=\"icon\" href=\"../favicon.ico\" type=\"image/x-icon\">\n\n  <!-- Analytics -->\n  <script type=\"text/javascript\">\n\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-136126-1']);\n    _gaq.push(['_trackPageview']);\n\n    (function() {\n      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n    })();\n\n  </script>\n  <!-- Analytics -->\n\n\n\n  <!--[if IE]><script type='text/javascript' src='js/html5ie.js'></script><![endif]-->\n\n  <script src=\"js/jquery-1.5.2.js\"></script>\n  <!--script src=\"js/functions.js\"></script>\n  <script src=\"js/jani.js\"></script-->\n  <script src=\"js/jphotoschanger.js\"></script>\n\n  <script>\n    $(document).ready(function(){\n      $('#photos').jphotoschanger({ frameWidth: 600, frameHeight: 776, speed: 100, totalFrames: 4 })\n       });\n    \n  </script>\n\n\n\n</head>\n\n<body bgcolor=\"#343e4b\" alink=\"#3399ff\" vlink=\"#3399ff\" link=\"#3399ff\" style=\"background-image: url('../image/wings.gif'); background-repeat: no-repeat; background-position: top;\">\n\n\n\n  	\n  <div align=\"center\">\n      <a href=\"../index.html\"></a><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n  <h1>photo retouching & 3D visualization</h1><br>\n  </div>\n\n  <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  	<div id=\"menu\" align=\"center\">\n      <ul>\n        <li><a href=\"../index.html\">about</a></li>\n        <li><a href=\"../portfolio.html\">portfolio</a></li>\n        <li><a href=\"../visualisation.html\">3D visualisation</a></li>\n        <li><a href=\"../retouching-clients.html\">clients</a></li>	\n        <li><a href=\"../price.html\">price</a></li>\n        <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n        <li><a href=\"../contact.html\">contact</a></li>\n  	</ul>\n    </div>\n  </td></tr>\n  </table>\n  <br><br>\n  <!--text used in the movie-->\n  <center>\n  <div id=\"text\">\n  <p class=\"nav\" style=\"padding-bottom:2em\"><a href=\"photo-compositing.html\">PREV</a>&nbsp; &nbsp; &nbsp; <a href=\"commercial-retouching.html\">NEXT</a></p>\n\n  <p><strong><font color=\"#FFFFFF\">mouse over image to see original</font></strong><br><br>\n\n    <div class=\"photos\" id=\"photos\"></div>\n  <br><br>\n\n  <p class=\"nav\" style=\"padding-bottom:2em\"><a href=\"photo-compositing.html\">PREV</a>&nbsp; &nbsp; &nbsp; <a href=\"commercial-retouching.html\">NEXT</a></p>\n\n  <p>retoucher and photographer: <a href=\"mailto:info@euphoria-imaging.com\" target=\"_blank\">Yahor Shumski</a><br>\n\n\n  <br><div align=\"center\"><script src=\"http://connect.facebook.net/en_US/all.js#xfbml=1\"></script><fb:like show_faces=\"false\" width=\"100\" colorscheme=\"dark\"></fb:like></div>\n\n  </div>\n  </center>\n</body>\n</html>\n",
+			"</",
+			"d",
+			"jlkj",
+			"sdf",
+			"openInBrowser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-136126-1', 'euphoria-imaging.com');\n  ga('send', 'pageview');\n\n</script>",
+			"<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-136126-1', 'auto');  // Replace with your property ID.\nga('send', 'pageview');\n\n</script>\n",
+			"<script type=\"text/javascript\">\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-136126-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n</script>",
+			"http://www.google-analytics.com/plugins/ga/inpage_linkid.js",
+			"",
+			">home</a>",
+			"<li><a href=\"../retouching-faq.html\">FAQ</a></li>",
+			"<strong><font color=\"#FFFFFF\">mouse over image to see original</font></strong><br><br>",
+			"photographer:",
+			"retoucher:",
+			"<div class=\"description\">",
+			"<li><a href=\"retouching-faq.html\">FAQ</a></li>",
+			"<!-- Google Code for Remarketing Tag -->\n\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\">\n</div>\n</noscript>\n",
+			"<!-- Google Code for Remarketing Tag -->\n\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\"/>\n</div>\n</noscript>\n",
+			"<!-- Google Code for Remarketing Tag -->\n\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\"/>\n</div>\n</noscript>\n",
+			"<!-- Google Code for Remarketing Tag -->\n<!--------------------------------------------------\nRemarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup\n--------------------------------------------------->\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nvar google_conversion_id = 1068505473;\nvar google_custom_params = window.google_tag_params;\nvar google_remarketing_only = true;\n/* ]]> */\n</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</script>\n<noscript>\n<div style=\"display:inline;\">\n<img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068505473/?value=0&amp;guid=ON&amp;script=0\"/>\n</div>\n</noscript>\n\n\n</body>",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" media=\"screen\">\n",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" media=\"screen\" />\n",
+			"		<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" media=\"screen\" />",
+			"    <style type=\"text/css\" media=\"screen\">\n    <!--\n    @import url(\"style.css\");\n    -->\n    </style>",
+			"Professional Photo Retouching Services",
+			"Professional photo retouching services",
+			"<!-- <li><a href=\"../visualisation.html\">3D visualization</a></li> -->",
+			"<!-- <li><a href=\"visualisation.html\">3D visualization</a></li> -->",
+			"<li><a href=\"visualisation.html\">3D visualization</a></li>",
+			"  <!-- facebook code -->\n  <div id=\"fb-root\"></div>\n<script type=\"text/javascript\">(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.async=true;\n  js.src = \"//connect.facebook.net/en_GB/all.js#xfbml=1&appId=263983510898\";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n  <!-- facebook code -->",
+			"portrait",
+			"	<!-- Analytics -->\n		<script type=\"text/javascript\">\n\n		  var _gaq = _gaq || [];\n		  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';\n		  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);\n		  _gaq.push(['_setAccount', 'UA-136126-1']);\n		  _gaq.push(['_trackPageview']);\n\n		  (function() {\n		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n		  })();\n\n		</script>\n		<!-- Analytics -->",
+			"			<div class=\"header\">\n				<a href=\"../index.html\"><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"Euphoria Imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a>\n				<h1>photo retouching & 3D visualization</h1>\n			</div>",
+			"	<div class=\"menu\">\n    <ul>\n      <li><a href=\"../index.html\" title=\"online photo retouching service\">about</a></li>\n      <li class=\"cur\"><a href=\"../portfolio.html\">portfolio</a></li>\n      <li><a href=\"../visualisation.html\">3D visualization</a></li>\n      <li><a href=\"../retouching-clients.html\">clients</a></li>	  \n      <!--<li><a href=\"../price.html\">price</a></li>-->\n      <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n      <li><a href=\"../contact.html\">contact</a></li>\n	</ul>\n  </div>",
+			"3D visualization",
+			"			<div class=\"header\">\n				<a href=\"../index.html\"><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"Euphoria Imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a>\n				<h1>photo retouching & 3D visualization</h1>\n			</div>",
+			"			<div class=\"header\">\n				<a href=\"index.html\"><img src=\"image/header-logo.png\" width=\"158\" height=\"46\" alt=\"Euphoria Imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a>\n				<h1>photo retouching & 3D visualization</h1>\n			</div>",
+			"photo retouching & 3D visualization",
+			"3D visualization",
+			"visualization",
+			"			<div class=\"header\">\n				<a href=\"index.html\"><img src=\"image/header-logo.png\" width=\"158\" height=\"46\" alt=\"Euphoria Imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a>\n				<h1>photo retouching & 3D visualisation</h1>\n			</div>",
+			"<object classid",
+			"class=\"",
+			"class=\"menu\"",
+			"<!--<li><a href=\"price.html\">price</a></li>-->",
+			"<!--<li><a href=\"../price.html\">price</a></li>-->",
+			"<li><a href=\"../price.html\">price</a></li>",
+			"<li><a href=\"price.html\">price</a></li>",
+			"<!--<li><a href=\"retouching-faq.html\">faq</a></li>-->",
+			"<!--<li><a href=\"../price.html\">price</a></li>-->",
+			"<!--<li><a href=\"price.html\">price</a></li>-->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "portfolio/models.py",
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								853,
+								853
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "photographer/settings.py",
+					"settings":
+					{
+						"buffer_size": 3567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1246,
+								1246
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "photographer/urls.py",
+					"settings":
+					{
+						"buffer_size": 918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "portfolio/urls.py",
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "portfolio/admin.py",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "django-portfolio2/urls.py",
+					"settings":
+					{
+						"buffer_size": 1088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "django-portfolio2/admin.py",
+					"settings":
+					{
+						"buffer_size": 1979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								876
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"port",
+				"portfolio.html"
+			],
+			[
+				"night",
+				"portfolio/night-camp-collage.html"
+			],
+			[
+				"au",
+				"portfolio/automative-retouching.html"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"faq",
+				"retouching-faq.html"
+			],
+			[
+				"clien",
+				"retouching-clients.html"
+			],
+			[
+				".h",
+				".htaccess"
+			],
+			[
+				"price",
+				"price.html"
+			],
+			[
+				"th",
+				"thanks.html"
+			],
+			[
+				"contactol",
+				"contactOld.html"
+			],
+			[
+				"cont",
+				"contact.html"
+			],
+			[
+				"client",
+				"retouching-clients.html"
+			],
+			[
+				"fa",
+				"retouching-faq.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"than",
+				"thanks.html"
+			],
+			[
+				"sky",
+				"portfolio/skytree.html"
+			],
+			[
+				"visu",
+				"image/portfolio/visualisation9.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"vis",
+				"visualisation.html"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"nigh",
+				"portfolio/night-camp-collage.html"
+			],
+			[
+				"ni",
+				"portfolio/night-camp-collage.html"
+			],
+			[
+				"marr",
+				"portfolio/interior-hotel-marriott.html"
+			],
+			[
+				"po",
+				"portfolio.html"
+			],
+			[
+				"inter",
+				"portfolio/interior.html"
+			],
+			[
+				"sample21",
+				"portfolio/sample21.html"
+			],
+			[
+				"corporate-portrait.html",
+				"portfolio/corporate-portrait.html"
+			],
+			[
+				"interior",
+				"portfolio/interior-hotel-marriott.html"
+			],
+			[
+				"exp",
+				"index-expert.html"
+			],
+			[
+				"exper",
+				"index-expert.html"
+			],
+			[
+				"retouching3",
+				"portfolio/retouching3.html"
+			],
+			[
+				"cli",
+				"retouching-clients.html"
+			],
+			[
+				"stl",
+				"style.css"
+			],
+			[
+				"sample28a",
+				"portfolio/sample28a.html"
+			],
+			[
+				"sample24",
+				"portfolio/sample24.html"
+			],
+			[
+				"sample2",
+				"portfolio/sample2.html"
+			],
+			[
+				"retouching2",
+				"portfolio/retouching2.html"
+			],
+			[
+				"reed10",
+				"portfolio/reed10.html"
+			],
+			[
+				"photo-editn",
+				"portfolio/photo-editing-1.html"
+			],
+			[
+				"sample27",
+				"portfolio/sample27a.html"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"olorizing-2.html",
+				"portfolio/colorizing-2.html"
+			],
+			[
+				"colorizing-1",
+				"portfolio/colorizing-1.html"
+			],
+			[
+				"visualisation8",
+				"portfolio/visualisation8.html"
+			],
+			[
+				"visualisation7",
+				"portfolio/visualisation7.html"
+			],
+			[
+				"visualisation",
+				"portfolio/visualisation6.html"
+			],
+			[
+				"visua",
+				"portfolio/visualisation5.html"
+			],
+			[
+				"visualisa",
+				"portfolio/visualisation4.html"
+			],
+			[
+				"visualisation2",
+				"portfolio/visualisation2.html"
+			],
+			[
+				"visualisation9",
+				"portfolio/visualisation9.html"
+			],
+			[
+				"vu",
+				"image/portfolio/visualisation9.html"
+			],
+			[
+				"reed",
+				"portfolio/reed1.html"
+			],
+			[
+				"reed1",
+				"portfolio/reed12.html"
+			],
+			[
+				"reed6",
+				"portfolio/reed6.html"
+			],
+			[
+				"sample23",
+				"portfolio/sample23.html"
+			],
+			[
+				"reed12",
+				"portfolio/reed12.html"
+			],
+			[
+				"reed11",
+				"portfolio/reed11.html"
+			],
+			[
+				"sample13",
+				"portfolio/sample13.html"
+			],
+			[
+				"door",
+				"portfolio/door.html"
+			],
+			[
+				"fashion-ret",
+				"portfolio/fashion-retouching.html"
+			],
+			[
+				"cleary",
+				"portfolio/cleary2.html"
+			],
+			[
+				"sample11",
+				"portfolio/sample11.html"
+			],
+			[
+				"hair-re",
+				"portfolio/hair-retouching.html"
+			],
+			[
+				"sample5",
+				"portfolio/sample5.html"
+			],
+			[
+				"sample14",
+				"portfolio/sample14.html"
+			],
+			[
+				"model-ret",
+				"portfolio/model-retouching.html"
+			],
+			[
+				"krone",
+				"portfolio/krone.html"
+			],
+			[
+				"sample26",
+				"portfolio/sample26.html"
+			],
+			[
+				"bl",
+				"portfolio/backup/lube1.html"
+			],
+			[
+				"photo-edit",
+				"portfolio/photo-editing-2.html"
+			],
+			[
+				"editor",
+				"portfolio/editorial-retouching.html"
+			],
+			[
+				"photo",
+				"portfolio/photo-editing-1.html"
+			],
+			[
+				"fas",
+				"portfolio/fashion.html"
+			],
+			[
+				"fashion",
+				"portfolio/fashion-retouching2.html"
+			],
+			[
+				"food",
+				"portfolio/food.html"
+			],
+			[
+				"sample22",
+				"portfolio/sample22.html"
+			],
+			[
+				"sample25",
+				"portfolio/sample25.html"
+			],
+			[
+				"sample27a",
+				"portfolio/sample27a.html"
+			],
+			[
+				"sample17",
+				"portfolio/sample17.html"
+			],
+			[
+				"sample16",
+				"portfolio/sample16.html"
+			],
+			[
+				"sample20",
+				"portfolio/sample20.html"
+			],
+			[
+				"retouching13",
+				"portfolio/retouching13.html"
+			],
+			[
+				"sample19",
+				"portfolio/sample19.html"
+			],
+			[
+				"sample18",
+				"portfolio/sample18.html"
+			],
+			[
+				"sample",
+				"portfolio/sample15.html"
+			],
+			[
+				"sample15",
+				"portfolio/sample15.html"
+			],
+			[
+				"retouching7",
+				"portfolio/retouching7.html"
+			],
+			[
+				"produc",
+				"portfolio/product-retouching.html"
+			],
+			[
+				"commer",
+				"portfolio/commercial-retouching.html"
+			],
+			[
+				"cy",
+				"portfolio/cyclist.html"
+			],
+			[
+				"exter",
+				"portfolio/exterior-hdr.html"
+			],
+			[
+				"corp",
+				"portfolio/corporate-portrait.html"
+			],
+			[
+				"",
+				"style.css"
+			],
+			[
+				"clie",
+				"retouching-clients.html"
+			],
+			[
+				"portf",
+				"portfolio.html"
+			],
+			[
+				"glam",
+				"portfolio/glamour2.html"
+			],
+			[
+				"interior-",
+				"portfolio/interior-hotel-marriott.html"
+			],
+			[
+				".",
+				".htaccess"
+			],
+			[
+				"archite",
+				"portfolio/architecture.html"
+			],
+			[
+				"retouching6",
+				"portfolio/retouching6.html"
+			],
+			[
+				"test",
+				"retouching-testimonials.html"
+			],
+			[
+				"intero",
+				"portfolio/interior.html"
+			],
+			[
+				"exterior",
+				"portfolio/exterior-hdr.html"
+			],
+			[
+				"model",
+				"portfolio/model-retouching.html"
+			],
+			[
+				"jewel2",
+				"portfolio/jewel2.html"
+			],
+			[
+				"interior2",
+				"portfolio/interior2.html"
+			],
+			[
+				"interior1",
+				"portfolio/interior1.html"
+			],
+			[
+				"interior-ret",
+				"portfolio/interior-retouching.html"
+			],
+			[
+				"hair",
+				"portfolio/hair-retouching.html"
+			],
+			[
+				"gar",
+				"portfolio/garcia.html"
+			],
+			[
+				"jewel",
+				"portfolio/jewel2.html"
+			],
+			[
+				"interi",
+				"image/portfolio/interior-retouching.html"
+			],
+			[
+				"fash",
+				"portfolio/fashion-retouching.html"
+			],
+			[
+				"retouhing5",
+				"portfolio/retouching5.html"
+			],
+			[
+				"archi",
+				"portfolio/architecture.html"
+			],
+			[
+				"doo",
+				"portfolio/door.html"
+			],
+			[
+				"retouching5",
+				"portfolio/retouching5.html"
+			],
+			[
+				"restor",
+				"portfolio/restoration2.html"
+			],
+			[
+				"produ",
+				"portfolio/product-retouching.html"
+			],
+			[
+				"model-r",
+				"portfolio/model-retouching.html"
+			],
+			[
+				"je",
+				"portfolio/jewel.html"
+			],
+			[
+				"interio",
+				"portfolio/backup/interior2.html"
+			],
+			[
+				"fashion-re",
+				"portfolio/fashion-retouching.html"
+			],
+			[
+				"edto",
+				"portfolio/editorial-retouching.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/User/Documents/work/site/euphoria.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true
+}

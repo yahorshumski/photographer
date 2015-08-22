@@ -18,4 +18,11 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
+
+    # Photographer URLs
+    #url(r'', include('portfolio.urls', namespace="blogengine")),
+    url(r'^portfolio/', include('django-portfolio.urls')),
+ 
 ]
+
+
