@@ -25,6 +25,7 @@ urlpatterns = [
     # Photographer URLs
     #url(r'', include('portfolio.urls', namespace="blogengine")),
     url(r'^portfolio/', include('portfolio.urls')),
+    url(r'^pages/', include('django.contrib.flatpages.urls')),
  
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 

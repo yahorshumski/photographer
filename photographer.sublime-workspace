@@ -203,62 +203,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "portfolio/models.py",
-			"settings":
-			{
-				"buffer_size": 853,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "photographer/settings.py",
-			"settings":
-			{
-				"buffer_size": 3567,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "photographer/urls.py",
-			"settings":
-			{
-				"buffer_size": 918,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "portfolio/urls.py",
-			"settings":
-			{
-				"buffer_size": 180,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "portfolio/admin.py",
-			"settings":
-			{
-				"buffer_size": 115,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "django-portfolio2/urls.py",
-			"settings":
-			{
-				"buffer_size": 1088,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "django-portfolio2/admin.py",
-			"settings":
-			{
-				"buffer_size": 1979,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -404,6 +348,29 @@
 	},
 	"file_history":
 	[
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/templates/django-portfolio/category_detail.html",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/templates/django-portfolio/artwork_detail.html",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/admin.py",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/templates/django-portfolio/collection_detail.html",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/models.py",
+		"/E/Ubuntu/user/projects/photographer/photographer.sublime-workspace",
+		"/E/Ubuntu/user/projects/photographer/photographer/settings.py",
+		"/E/Ubuntu/user/projects/photographer/photographer/urls.py",
+		"/E/Ubuntu/user/projects/photographer/portfolio/migrations/0001_initial.py",
+		"/E/Ubuntu/user/projects/photographer/portfolio/models.py",
+		"/E/Ubuntu/user/projects/photographer/portfolio/templates/django-portfolio/artwork_detail.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/templates/django-portfolio/artwork_list.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/templates/django-portfolio/category_detail.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/templates/django-portfolio/category_list.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/templates/django-portfolio/collection_detail.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/templates/django-portfolio/collection_list.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/urls.py",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/templates/django-portfolio/category_list.html",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/templates/django-portfolio/collection_list.html",
+		"/E/Ubuntu/user/projects/photographer/portfolio/admin.py",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio/templates/django-portfolio/artwork_list.html",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio2/urls.py",
+		"/E/Ubuntu/user/projects/photographer/django-portfolio2/admin.py",
 		"/E/Ubuntu/user/projects/blog/templates/blogengine/post_detail.html",
 		"/E/Ubuntu/user/projects/blog/blogengine/urls.py",
 		"/E/Ubuntu/user/projects/blog/templates/blogengine/post_list.html",
@@ -508,30 +475,7 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/advertising-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/architecture.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/bratsburg.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/cleary.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/cleary2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/commercial-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/door.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/editorial-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/eriksen.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/fashion-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/fashion.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/food.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garcia.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garcia2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garcia3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garsia3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/hair-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/interior-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/interior1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/interior2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/johansson3.html"
+		"/C/Users/User/Documents/work/site/portfolio/backup/cleary.html"
 	],
 	"find":
 	{
@@ -539,9 +483,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
+			"E:\\Ubuntu\\user\\projects\\photographer",
 			"E:\\Ubuntu\\user\\projects\\mysite",
 			"C:\\Users\\User\\Documents\\work\\site",
 			"C:\\Users\\User\\Documents\\work\\site\\portfolio",
@@ -553,6 +498,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"django-portfolio",
+			"portfol",
 			"client.get('/admin/')",
 			"client.get",
 			"code, 200",
@@ -659,6 +606,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"portfolio",
 			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-136126-1', 'euphoria-imaging.com');\n  ga('send', 'pageview');\n\n</script>",
 			"<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-136126-1', 'auto');  // Replace with your property ID.\nga('send', 'pageview');\n\n</script>\n",
 			"<script type=\"text/javascript\">\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-136126-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n</script>",
@@ -716,224 +664,8 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "portfolio/models.py",
-					"settings":
-					{
-						"buffer_size": 853,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								853,
-								853
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 480.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "photographer/settings.py",
-					"settings":
-					{
-						"buffer_size": 3567,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1246,
-								1246
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 585.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "photographer/urls.py",
-					"settings":
-					{
-						"buffer_size": 918,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								864,
-								864
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "portfolio/urls.py",
-					"settings":
-					{
-						"buffer_size": 180,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								177,
-								177
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "portfolio/admin.py",
-					"settings":
-					{
-						"buffer_size": 115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								115
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "django-portfolio2/urls.py",
-					"settings":
-					{
-						"buffer_size": 1088,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								39,
-								39
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "django-portfolio2/admin.py",
-					"settings":
-					{
-						"buffer_size": 1979,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								876,
-								876
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 315.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

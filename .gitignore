@@ -1,5 +1,8 @@
 *.pyc
 reports/
+media/
+static/
+pictures/
 htmlcov/
 .coverage
 blogengine/migrations
