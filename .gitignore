@@ -3,6 +3,7 @@ reports/
 media/
 static/
 pictures/
+cache/
 htmlcov/
 .coverage
 blogengine/migrations
