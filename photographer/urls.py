@@ -15,14 +15,17 @@ Including another URLconf
 """
 from django.conf.urls import include, url
 from django.contrib import admin
+from django.conf import settings
+from django.conf.urls.static import static
+
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
 
     # Photographer URLs
     #url(r'', include('portfolio.urls', namespace="blogengine")),
-    url(r'^portfolio/', include('django-portfolio.urls')),
+    url(r'^portfolio/', include('portfolio.urls')),
  
-]
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 
