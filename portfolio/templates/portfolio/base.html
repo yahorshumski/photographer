@@ -4,6 +4,14 @@
     </head>
 
     <body>
+		{% load flatpages %}
+		{% get_flatpages as flatpages %}
+		<ul>
+		    {% for page in flatpages %}
+		        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+		    {% endfor %}
+		</ul>
+
         {% block content %}{% endblock %}
     </body>
 </html>
