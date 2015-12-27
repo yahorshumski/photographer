@@ -17,3 +17,4 @@ def categories(request):
     """ Add `categories` to RequestContext. """
 
     return {'categories': Category.objects.all()}
+

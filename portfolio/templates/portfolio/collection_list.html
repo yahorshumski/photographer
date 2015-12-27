@@ -1,4 +1,5 @@
 {% extends "portfolio/base.html" %}
+{% load thumbnail %}
 
 {% block title %}{{ superblock }} - Collection list{% endblock %}
 
@@ -7,5 +8,20 @@
     {% for object in object_list %}
         <li><a href="{{ object.get_absolute_url }}">{{ object }}</a></li>
     {% endfor %}
+    </ul>
+
+
     <ul>
+        {% for picture in view.Picture %}
+            {% thumbnail picture.image "640" as thumbnail %}
+                <li><img src="{{ thumbnail.url }}" width="{{ thumbnail.width}}" height="{{ thumbnail.height }}" alt="{{ picture }}"/></li>
+            {% empty %}
+                <li><img src="http://placekitten.com/640/480" width="640" height="480" alt="{{ picture }}"/></li>
+            {% endthumbnail %}
+        {% endfor %}
+    </ul>
+
+
+
+
 {% endblock content %}

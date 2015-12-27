@@ -1,7 +1,7 @@
 from django.views.generic import ListView, DetailView, RedirectView
 from django.core.urlresolvers import reverse
 
-from .models import Artwork, Category, Collection
+from .models import Artwork, Category, Collection, Picture
 
 
 class HomeView(RedirectView):
@@ -28,12 +28,15 @@ class CollectionViewBase(object):
     model = Collection
 
 
+
 class CollectionDetailView(CollectionViewBase, DetailView):
     pass
 
 
 class CollectionListView(CollectionViewBase, ListView):
-    pass
+
+    def Picture(self):
+        return Picture.objects.all()
 
 
 class CategoryViewBase(object):
