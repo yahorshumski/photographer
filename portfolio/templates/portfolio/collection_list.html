@@ -5,14 +5,14 @@
 
 {% block content %}
     <ul>
-    {% for object in object_list %}
+    {% for object in collections %}
         <li><a href="{{ object.get_absolute_url }}">{{ object }}</a></li>
     {% endfor %}
     </ul>
 
 
     <ul>
-        {% for picture in view.Picture %}
+        {% for picture in pictures %}
             {% thumbnail picture.image "640" as thumbnail %}
                 <li><img src="{{ thumbnail.url }}" width="{{ thumbnail.width}}" height="{{ thumbnail.height }}" alt="{{ picture }}"/></li>
             {% empty %}
@@ -20,7 +20,6 @@
             {% endthumbnail %}
         {% endfor %}
     </ul>
-
 
 
 

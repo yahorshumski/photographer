@@ -80,6 +80,8 @@ TEMPLATES = [
                 'portfolio.context_processors.collections',
                 'portfolio.context_processors.artworks',
                 'portfolio.context_processors.categories',
+                'portfolio.context_processors.pictures',
+
                 #'django.contrib.messages.context_processors.static',
             ],
         },

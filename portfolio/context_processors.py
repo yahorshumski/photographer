@@ -1,4 +1,4 @@
-from .models import Collection, Artwork, Category
+from .models import Collection, Artwork, Category, Picture
 
 
 def collections(request):
@@ -18,3 +18,8 @@ def categories(request):
 
     return {'categories': Category.objects.all()}
 
+
+def pictures(request):
+    """ Add `categories` to RequestContext. """
+
+    return {'pictures': Picture.objects.all()}
